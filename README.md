@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello and welcome to my page!
 
-<!--
-**moonwythsun/moonwythsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Lia** 👋
+An extremely shy girl who gets easily intimidated,
+but also someone who loves **fictional men** and everything **cute** 🐾
 
-Here are some ideas to get you started:
+I may be quiet at first, but I'm actually quite caring—
+especially if you treat me kindly too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌸 About Me
+
+* 🐱 Cat person & lover of cute things
+* 🎮 Enjoy games, fictional characters, and storytelling
+* 💻 Currently learning programming step by step
+* 🌙 More comfortable in quiet, calm environments
+
+---
+
+## 🎓 Education
+- S1 Sistem Informasi  
+- Still learning, slowly but surely 🌱
+
+---
+
+## ✨ A Little Note
+
+I might not talk much, but I observe a lot.
+And once I’m comfortable, I can be surprisingly expressive.
+
+---
+
+## 📫 Find Me Here
+
+* Instagram: https://www.instagram.com/moirawisp
