@@ -33,4 +33,4 @@ And once I’m comfortable, I can be surprisingly expressive.
 
 ## 📫 Find Me Here
 
-* Instagram: https://www.instagram.com/moirawisp
+* Instagram: instagram.com/moirawisp
