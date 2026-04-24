@@ -19,7 +19,7 @@ especially if you treat me kindly too.
 ---
 
 ## 🎓 Education
-- S1 Sistem Informasi  
+- Undergraduate Information Systems Student
 - Still learning, slowly but surely 🌱
 
 ---
